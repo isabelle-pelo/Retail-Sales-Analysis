@@ -78,4 +78,6 @@ This suggests that different age groups may lean towards different product categ
 
 
 ### 9. Tableau Dashboard
-The interactive Tableau dashboard regarding this dataset can be accessed [here](https://public.tableau.com/app/profile/isabelle.pelo/viz/RetailSalesDashboard_17878000143180/Dashboard1).
+The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/isabelle.pelo/viz/RetailSalesDashboard_17878000143180/Dashboard1).
+
+![Retail Sales Dashboard](images/dashboard.png)
