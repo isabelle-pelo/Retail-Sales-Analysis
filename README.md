@@ -1,6 +1,6 @@
-# 1. Retail Sales Analysis
+# Retail Sales Analysis
 
-### Project Overview
+### 1. Project Overview
 This data analysis project analyzes retail sales data of a store to identify sales trends and customer purchasing behavior. 
 The analysis focuses on the store's sales performance throughout the year across product categories and its customers' product preference by gender and age groups using Google Sheets, GoogleSQL, and Tableau.
 
